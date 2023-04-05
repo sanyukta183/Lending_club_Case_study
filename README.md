@@ -10,7 +10,9 @@
 
 
 ## General Information
-- A consumer finance company named 'Lending Club' specialises in lending various types of loans to urban customers. When the company receives a loan application, it has to make a decision for loan approval based on the applicant’s profile.
+- 'Lending Club is a marketplace for various types of loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
+Whne the company receives a loan application ,company has to make decision for loan approval based on applicant's profile.
+
 There are two types of risks are associated with the bank’s decision:
 
 (i) If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
