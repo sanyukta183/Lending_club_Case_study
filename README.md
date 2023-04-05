@@ -10,7 +10,7 @@
 
 
 ## General Information
-- 'Lending Club is a marketplace for various types of loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
+- 'Lending Club' is a marketplace for various types of loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
 Whne the company receives a loan application ,company has to make decision for loan approval based on applicant's profile.
 
 There are two types of risks are associated with the bank’s decision:
