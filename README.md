@@ -8,23 +8,27 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- A consumer finance company named 'Lending Club' specialises in lending various types of loans to urban customers. When the company receives a loan application, it has to make a decision for loan approval based on the applicant’s profile.
+There are two types of risks are associated with the bank’s decision:
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+(i) If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
+(ii) If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+Based on the dataset supplied company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.
+
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+(1) Loan Term: Average Interest rate for defaulted applications is very high with 12.38 % for 36 months and 15.75 % for 60 months term.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+(2) Grade: Default Rate is high in high risk loan applicants. It would be important for LC to thoroughly vet high risk loan applications.
+
+(3) Loan Purpose: The top two reasons for loans are debt consolidation and credit card. Such applications should be carefully assessed.
+
+(4) Loan Issue Month: The most common month the loan is issued is December.
+
+
 
 
 ## Technologies Used
@@ -36,17 +40,12 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by 
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on Upgrad Tutorial videos
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@sanyukta183] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
